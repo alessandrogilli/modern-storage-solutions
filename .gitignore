@@ -1,0 +1,9 @@
+**/*-env/
+**/*.parquet
+**/*.json
+**/*.csv
+**/bigfile
+**/mc
+**/__pycache__/
+**/spark-warehouse
+**/*.delta
